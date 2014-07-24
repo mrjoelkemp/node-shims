@@ -1,6 +1,6 @@
 {
   "name": "shims",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get a lookup table of aliases from your requirejs or browserify config",
   "main": "index.js",
   "scripts": {
